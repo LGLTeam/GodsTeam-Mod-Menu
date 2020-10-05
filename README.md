@@ -1,6 +1,6 @@
 # GodsTeam Mod Menu design
 
-![](https://i.imgur.com/CoI38ER.gif)
+![](https://i.imgur.com/QozJ8FA.gif)
 
 We are not GodsTeam nor support them. But my friend asked me to design this menu for him long time ago
 
